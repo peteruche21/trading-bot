@@ -1,2 +1,5 @@
 /trading-bot
 .vscode
+.gitignore
+README.md
+/__pycache__
